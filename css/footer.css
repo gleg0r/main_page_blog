@@ -1,0 +1,27 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 57px;
+    border-top: 1px solid #E8E8E8;
+}
+
+.footer-text {
+    margin-right: 75px;
+    margin-left: -114px;
+}
+
+.footer-icons {
+    margin-top: 15px;
+}
+
+.footer-icons a {
+    padding-left: 34.78px
+}
+
+.footer-text__rights {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
