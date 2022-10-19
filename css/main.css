@@ -76,6 +76,7 @@
     width: 403px;
     margin-left: 52px;
     margin-top: 1px;
+    color: #718096;
 }
 
 .card-latest-text-danks {
@@ -90,6 +91,7 @@
     font-size: 12px;
     margin-left: 53px;
     margin-top: 16px;
+    color: #718096;
 }
 
 .card-latest-text__link {
@@ -233,6 +235,7 @@
     font-size: 16px;
     line-height: 19px;
     color: #000000;
+    text-decoration: none;
 }
 
 .notebook__img {
